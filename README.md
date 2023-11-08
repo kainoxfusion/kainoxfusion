@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KaiNox</h1>
+<h1 align="center">Hi 👋, KaiNox here </h1>
 <h3 align="center">I need coffee</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/nudoGrOfqiUAAAAC/coffee-cat.gif")
 
