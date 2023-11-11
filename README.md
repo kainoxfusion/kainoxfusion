@@ -2,7 +2,7 @@
 <h3 align="center">I need coffee</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/nudoGrOfqiUAAAAC/coffee-cat.gif")
 
-- ⚡ Fun fact **I like cat's and coffee**
+- ⚡ Fun fact **I love cats and coffee and I only program because I'm not mentally healthy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
